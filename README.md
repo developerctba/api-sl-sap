@@ -29,7 +29,8 @@
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository. <br>
 API created to connect to SAP ServiceLayer
 
-## Shortcuts
+## Initial
+#### Set server config in [api-sl-sap/src/core/sap/config/config.ts](https://github.com/developerctba/api-sl-sap/blob/master/src/core/sap/config/config.ts)
 ```bash
 $ npm install
 $ npm run start:dev
